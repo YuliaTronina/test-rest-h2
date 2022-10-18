@@ -1,0 +1,32 @@
+2022-10-18 09:50:45.060  INFO 442 --- [main] c.e.testresth2.TestRestH2Application     : Starting TestRestH2Application using Java 17.0.1 on LinMint with PID 442 (/home/julia/IdeaProjects/test-rest-h2/target/classes started by julia in /home/julia/IdeaProjects/test-rest-h2)
+2022-10-18 09:50:45.072  INFO 442 --- [main] c.e.testresth2.TestRestH2Application     : No active profile set, falling back to 1 default profile: "default"
+2022-10-18 09:50:46.068  INFO 442 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-10-18 09:50:46.094  INFO 442 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 JPA repository interfaces.
+2022-10-18 09:50:46.760  INFO 442 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-18 09:50:47.153  INFO 442 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-18 09:50:47.229  INFO 442 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-10-18 09:50:47.313  INFO 442 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-18 09:50:47.578  INFO 442 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-18 09:50:47.758  INFO 442 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-10-18 09:50:48.567  INFO 442 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-18 09:50:48.580  INFO 442 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-10-18 09:50:48.963  INFO 442 --- [main] c.e.testresth2.TestRestH2Application     : Started TestRestH2Application in 4.844 seconds (JVM running for 6.224)
+2022-10-18 09:50:48.977  INFO 442 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-10-18 09:50:48.982  INFO 442 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-18 09:50:48.988  INFO 442 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-18 09:51:10.966  INFO 559 --- [main] c.e.testresth2.TestRestH2Application     : Starting TestRestH2Application using Java 17.0.1 on LinMint with PID 559 (/home/julia/IdeaProjects/test-rest-h2/target/classes started by julia in /home/julia/IdeaProjects/test-rest-h2)
+2022-10-18 09:51:10.973  INFO 559 --- [main] c.e.testresth2.TestRestH2Application     : No active profile set, falling back to 1 default profile: "default"
+2022-10-18 09:51:11.891  INFO 559 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-10-18 09:51:11.921  INFO 559 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 JPA repository interfaces.
+2022-10-18 09:51:12.654  INFO 559 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-18 09:51:13.101  INFO 559 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-18 09:51:13.182  INFO 559 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-10-18 09:51:13.268  INFO 559 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-18 09:51:13.609  INFO 559 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-18 09:51:13.913  INFO 559 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-10-18 09:51:15.120  INFO 559 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-18 09:51:15.137  INFO 559 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-10-18 09:51:15.581  INFO 559 --- [main] c.e.testresth2.TestRestH2Application     : Started TestRestH2Application in 5.423 seconds (JVM running for 8.379)
+2022-10-18 09:51:15.598  INFO 559 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-10-18 09:51:15.605  INFO 559 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-18 09:51:15.612  INFO 559 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
